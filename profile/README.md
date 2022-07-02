@@ -16,9 +16,9 @@ you can easily create a bot via koishi and install plugins to duplicate features
 
 *The badge that following the name shows whether the test process succeed or not*
 
-|Name|Test Passed?|Description|
-|:-:|:-:|:-:|
-|[ffxiv-macrodict](https://www.npmjs.com/package/koishi-plugin-ffxiv-macrodict)|[![Test](https://github.com/AwesomeHamster/koishi-plugin-ffxiv-macrodict/actions/workflows/test.yml/badge.svg)](https://github.com/AwesomeHamster/koishi-plugin-ffxiv-macrodict/actions/workflows/test.yml)|Read macro descriptions out of game|
-|[ffxiv-lodestone](https://www.npmjs.com/package/koishi-plugin-ffxiv-lodestone)|[![Test](https://github.com/AwesomeHamster/koishi-plugin-ffxiv-lodestone/actions/workflows/test.yml/badge.svg)](https://github.com/AwesomeHamster/koishi-plugin-ffxiv-lodestone/actions/workflows/test.yml)|Fetch news from lodestone|
-|[ffxiv-eorzea](https://www.npmjs.com/package/koishi-plugin-ffxiv-eorzea)|[![Test](https://github.com/AwesomeHamster/koishi-plugin-ffxiv-eorzea/actions/workflows/test.yml/badge.svg)](https://github.com/AwesomeHamster/koishi-plugin-ffxiv-eorzea/actions/workflows/test.yml)|Some useful commands in Eorzea|
-|[hitokoto](https://npmjs.com/package/koishi-plugin-hitokoto)|[![Test](https://github.com/AwesomeHamster/koishi-plugin-hitokoto/actions/workflows/test.yml/badge.svg)](https://github.com/AwesomeHamster/koishi-plugin-hitokoto/actions/workflows/test.yml)|Get a random sentence|
+|Name|Version|Test Passed?|Description|
+|:-:|:-:|:-:|:-:|
+|[ffxiv-macrodict](https://www.npmjs.com/package/koishi-plugin-ffxiv-macrodict)|![npm](https://img.shields.io/npm/v/koishi-plugin-ffxiv-macrodict)|[![Test](https://github.com/AwesomeHamster/koishi-plugin-ffxiv-macrodict/actions/workflows/test.yml/badge.svg)](https://github.com/AwesomeHamster/koishi-plugin-ffxiv-macrodict/actions/workflows/test.yml)|Read macro descriptions out of game|
+|[ffxiv-lodestone](https://www.npmjs.com/package/koishi-plugin-ffxiv-lodestone)|![npm](https://img.shields.io/npm/v/koishi-plugin-ffxiv-lodestone)|[![Test](https://github.com/AwesomeHamster/koishi-plugin-ffxiv-lodestone/actions/workflows/test.yml/badge.svg)](https://github.com/AwesomeHamster/koishi-plugin-ffxiv-lodestone/actions/workflows/test.yml)|Fetch news from lodestone|
+|[ffxiv-eorzea](https://www.npmjs.com/package/koishi-plugin-ffxiv-eorzea)|![npm](https://img.shields.io/npm/v/koishi-plugin-ffxiv-eorzea)|[![Test](https://github.com/AwesomeHamster/koishi-plugin-ffxiv-eorzea/actions/workflows/test.yml/badge.svg)](https://github.com/AwesomeHamster/koishi-plugin-ffxiv-eorzea/actions/workflows/test.yml)|Some useful commands in Eorzea|
+|[hitokoto](https://npmjs.com/package/koishi-plugin-hitokoto)|![npm](https://img.shields.io/npm/v/koishi-plugin-hitokoto)|[![Test](https://github.com/AwesomeHamster/koishi-plugin-hitokoto/actions/workflows/test.yml/badge.svg)](https://github.com/AwesomeHamster/koishi-plugin-hitokoto/actions/workflows/test.yml)|Get a random sentence|
