@@ -2,11 +2,10 @@ name: Bug Report
 description: File a bug report
 title: "Bug: "
 labels: ["bug"]
-assignees:
 body:
   - type: markdown
     attributes:
-      placeholder: |
+      value: |
         Please fill up this section.
   - type: input
     id: contact
@@ -31,7 +30,6 @@ body:
       label: What platform are you seeing the problem on?
       multiple: true
       options:
-        - None
         - OneBot
         - Discord
         - Telegram
