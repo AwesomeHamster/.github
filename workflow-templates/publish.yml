@@ -1,0 +1,19 @@
+name: Publish
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  publish:
+    uses: AwesomeHamster/workflows/.github/workflows/publish.yml@master
+    permissions:
+      contents: write
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    with:
+      yarn-no-immutable: true
+      test-before-publish: true
+    secrets:
+      npm-token: ${{ secrets.NPM_TOKEN }}
+      github-token: ${{ secrets.GITHUB_TOKEN }}
