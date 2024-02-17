@@ -1,0 +1,13 @@
+{
+  "name": "Publish Workflow",
+  "description": "Publish Koishi Plugins used in Hamster.",
+  "iconName": "octicon beaker",
+  "categories": [
+    "continuous-integration",
+    "JavaScript",
+    "Yarn"
+  ],
+  "filePatterns": [
+    "package.json$"
+  ]
+}
