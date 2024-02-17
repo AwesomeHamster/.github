@@ -1,0 +1,13 @@
+{
+  "name": "Build Workflow",
+  "description": "Build Koishi Plugins used in Hamster.",
+  "iconName": "octicon zap",
+  "categories": [
+    "continuous-integration",
+    "JavaScript",
+    "Yarn"
+  ],
+  "filePatterns": [
+    "package.json$"
+  ]
+}
